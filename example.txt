@@ -1,0 +1,14 @@
+<!Document HTML>
+<HTML>
+<head>
+<style>
+<!-- Defining the table border-->
+table, th, td
+	{
+	border: 2px solid black;
+	}
+</style>
+<Title>
+Advanced HTML Table Design-1
+</Title>
+</head>
